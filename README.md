@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# Coinsend: Easy Cryptocurrency Payments
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+A platform to facilitate quick & easy ETH payments. Login with your Metamask account, specify an amount and the receiver's wallet address, and hit Send. Verify your transactions on Etherscan. 
